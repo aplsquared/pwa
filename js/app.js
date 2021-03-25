@@ -1,3 +1,12 @@
+/*Local Files Start*/
+import css from '../css/style.css';
+import flex from '../css/flex.css';
+import {Frame} from '../js/frame';
+import {error} from 'jquery';
+/*Local Files End*/
+
+
+
 const input = document.getElementById('lbsInput');
 const output = document.getElementById('output');
 
